@@ -7,6 +7,8 @@ public class koko {
 
 		
 			int a=1;
+			
+			System.out.println(a);
 	}
 
 }
