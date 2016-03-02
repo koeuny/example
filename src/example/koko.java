@@ -11,6 +11,7 @@ public class koko {
 			int c=1;
 			int d=1;
 			int e=1;
+			int a2=0;
 			System.out.println(a);
 			System.out.println(b);
 			
