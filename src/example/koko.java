@@ -18,7 +18,8 @@ public class koko {
 			System.out.println(b);
 			
 			//push 추가
-			
+			//두번째 유저 바꿈
+			//hi
 	}
 
 }
